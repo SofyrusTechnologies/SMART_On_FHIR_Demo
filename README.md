@@ -1,6 +1,6 @@
 # Sofyrus_SmartOnFhir
 
-##Components
+## Components
 
 - Cerner Sandbox Server
 - React Application
